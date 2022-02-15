@@ -1,0 +1,9 @@
+header {
+    background: lightyellow;
+    padding: 1rem;
+    display: flex;
+}
+
+.title {
+    margin: 0;
+}
